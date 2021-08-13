@@ -1,9 +1,3 @@
-#COSC1519 Introduction to Programming
-#Student name: Jack Gardner
-#Student number: 3900738
-#Practical group:
-# Thursday 8:30am
-
 #!/bin/python3
 
 #string input which asks the user their name and gives a scenario
